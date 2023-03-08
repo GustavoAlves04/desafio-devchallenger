@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    margin-left: 96px;
+    margin-top: 26px;
+}
+
+.main-home{
+    height: 538px;
+    background-image: url(./img/HeroImagelg.png);
+    margin-top: 30px;
+    margin-left: 96px;
+    margin-right: 96px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 20px;
+}
+
+.container-home{
+    z-index: 1;
+    margin-left: 108px;
+    padding-top: 115px
+}
+
+.container-home h1{
+    color: #fff;
+    font-family: 'Mystery Quest', cursive;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 87px;
+}
+
+.container-home h2{
+    width: 371px;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-top: 11px;
+    margin-bottom: 52px;
+}
+
+.container-home input{
+    border: none;
+    width: 394.62px;
+    height: 69.67px;
+    outline: none;
+    background: #FFFFFF;
+    border-radius: 59px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #291507;
+    padding-left: 28px;
+}
+
+.secound-container{
+    width: 1390px;
+    border-radius: 20px;
+    background: #E3E1DC;
+    height: 650.4px;
+    margin-left: 96px;
+}
